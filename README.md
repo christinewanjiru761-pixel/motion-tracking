@@ -1,4 +1,4 @@
-# PE — Weespas platform monorepo
+# platform monorepo
 
 Four services that share one set of rails (identity, geo, payments) to attack two
 Kenyan problems: **buildings that collapse without warning**, and **small sellers who
